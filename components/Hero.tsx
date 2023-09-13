@@ -10,7 +10,7 @@ export default function Hero() {
           className="absolute inset-0 -z-10 h-full w-full object-cover"
         /> */}
         <video
-          src="video/hero_video_2.mpv"
+          src="/video/hero_video_2.mp4"
           className="absolute inset-0 -z-10 h-full w-full object-cover  "
           autoPlay
           muted={true}
