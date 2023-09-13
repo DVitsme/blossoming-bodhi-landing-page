@@ -1,9 +1,6 @@
 export default function Hero() {
-<<<<<<< HEAD
   // going to build out upcoming evnets in the future
   const upCommingEvent = false;
-=======
->>>>>>> f52cc5c236ad6d1b64498b0685c303ccc6dcd866
   return (
     <div className="bg-gray-900">
       <div className="relative isolate overflow-hidden pt-14">
@@ -13,11 +10,7 @@ export default function Hero() {
           className="absolute inset-0 -z-10 h-full w-full object-cover"
         /> */}
         <video
-<<<<<<< HEAD
           src="video/hero_video_2.mpv"
-=======
-          src="video/hero_yoga_540.mp4"
->>>>>>> f52cc5c236ad6d1b64498b0685c303ccc6dcd866
           className="absolute inset-0 -z-10 h-full w-full object-cover  "
           autoPlay
           muted={true}
@@ -38,7 +31,6 @@ export default function Hero() {
         </div>
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
-<<<<<<< HEAD
             {upCommingEvent && (
               <div className="relative rounded-full px-3 py-1 text-sm font-semibold leading-6 bg-orange-500 text-white ring-1 ring-orange-500">
                 Announcing our Upcommming Event.{' '}
@@ -52,32 +44,14 @@ export default function Hero() {
                 </a>
               </div>
             )}
-=======
-            <div className="relative rounded-full px-3 py-1 text-sm font-semibold leading-6 bg-orange-500 text-white ring-1 ring-orange-500">
-              Announcing our Upcommming Event.{' '}
-              <a
-                href="https://www.eventbrite.com/e/heal-the-healers-tickets-703694217347"
-                className="font-semibold text-white"
-                target="_blank"
-              >
-                <span className="absolute inset-0" aria-hidden="true" />
-                Read more <span aria-hidden="true">&rarr;</span>
-              </a>
-            </div>
->>>>>>> f52cc5c236ad6d1b64498b0685c303ccc6dcd866
           </div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
               Unlock Liberation and Transformation Awaits
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-<<<<<<< HEAD
               Discover the Empowerment of Yoga: Nurturing Healing, Easing
               Stress, and Cultivating Vitality.
-=======
-              Embrace Empowering Yoga: Cultivate Healing, Ease Stress, Nurture
-              Vitality.
->>>>>>> f52cc5c236ad6d1b64498b0685c303ccc6dcd866
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a

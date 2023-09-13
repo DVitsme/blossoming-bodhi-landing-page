@@ -83,11 +83,7 @@ const TextLeft = () => {
               </dl>
               <div className="inline-flex">
                 <a
-<<<<<<< HEAD
                   href="https://blossomingbodhi.hbportal.co/public/64ed5adc5b81ab0024d884f8"
-=======
-                  href="#"
->>>>>>> f52cc5c236ad6d1b64498b0685c303ccc6dcd866
                   className="mt-8 rounded-md bg-orange-500 px-8 py-5 text-sm font-semibold text-white shadow-sm hover:bg-orange-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                 >
                   Book a Session <span aria-hidden="true">&rarr;</span>
@@ -126,7 +122,6 @@ const TextRight = () => {
               <p className="mt-6 text-lg leading-8 text-gray-600">
                 Immerse in Yin Yoga, harmonizing with the meridians of Chinese
                 medicine. Gentle poses and extended holds promote relaxation and
-<<<<<<< HEAD
                 flexibility. Dive into meridians, nurturing energy pathways, and
                 deepening mind-body connection. Embrace the release of tension
                 and increased vitality, harmonizing the body's energy. Join us
@@ -135,16 +130,6 @@ const TextRight = () => {
               <dl className="mt-14 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">
                 <a
                   href="https://www.union.fit/orgs/blossoming-bodhi/passes"
-=======
-                fltexibility. Dive into meridians, nurturing energy pathways,
-                and deepening mind-body connection. Embrace the release of
-                tension and increased vitality, harmonizing body's energy. Join
-                us on this holistic journey toward inner balance and vitality.
-              </p>
-              <dl className="mt-14 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">
-                <a
-                  href="#"
->>>>>>> f52cc5c236ad6d1b64498b0685c303ccc6dcd866
                   className="rounded-md bg-orange-500 px-8 py-5 text-sm font-semibold text-white shadow-sm hover:bg-orange-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                 >
                   Book a Class <span aria-hidden="true">&rarr;</span>
