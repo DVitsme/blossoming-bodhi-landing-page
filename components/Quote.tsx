@@ -19,12 +19,18 @@ export default function Quote() {
               </svg>
               <blockquote className="text-xl font-semibold leading-8 text-white sm:text-2xl sm:leading-9">
                 <p>
+<<<<<<< HEAD
                   Greetings! I'm genuinely thrilled that you've discovered me. A
                   wholehearted and warm welcome to My Sanctuary Blossoming
                   Bodhi. I'm Dawn, and your presence here is deeply appreciated.
                   With yoga as our guide, together we embark on a journey of
                   transformation and liberation, nurturing your inner growth and
                   well-being.
+=======
+                  Greetings, and welcome to my space. I'm Dawn, and I'm grateful
+                  for your presence. Through yoga, I guide you toward
+                  transformation and liberation.
+>>>>>>> f52cc5c236ad6d1b64498b0685c303ccc6dcd866
                 </p>
               </blockquote>
               <figcaption className="mt-8 text-base">
